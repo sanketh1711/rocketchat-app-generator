@@ -1,0 +1,17 @@
+{
+    "name": "mention-tracker",
+    "version": "0.0.1",
+    "description": "A Rocket.Chat app that tracks mentions and sends ephemeral thank you messages",
+    "main": "MentionTrackerApp.ts",
+    "scripts": {
+        "package": "rc-apps package",
+        "deploy": "rc-apps deploy",
+        "compile": "tsc"
+    },
+    "devDependencies": {
+        "@rocket.chat/apps-engine": "^1.43.0",
+        "@rocket.chat/ui-kit": "^0.39.0",
+        "@types/node": "^25.5.0",
+        "typescript": "^4.5.5"
+    }
+}
