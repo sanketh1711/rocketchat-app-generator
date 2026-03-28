@@ -26,3 +26,7 @@ out/
 Network Trash Folder
 Temporary Items
 .apdisk
+data/
+dist/
+*.zip
+node_modules/
