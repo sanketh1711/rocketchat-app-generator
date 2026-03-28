@@ -1,0 +1,14 @@
+{
+    "id": "sanketh1711.mention-tracker",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.4.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "sanketh1711",
+        "support": "https://github.com/sanketh1711"
+    },
+    "name": "Mention Tracker",
+    "nameSlug": "mention-tracker",
+    "classFile": "MentionTrackerApp.ts",
+    "description": "Tracks mentions and sends ephemeral thank you messages when someone mentions the tracked user."
+}
